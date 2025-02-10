@@ -2,6 +2,6 @@
 Hi!👋 I´m a junior Java developer primally focused on backend development. I´m currently focused improving my skills in technologies like Spring Security, Hibernate, JUnit and Spring Boot. This repository is a space where I share my projects, practices, and progress as I learn and apply these frameworks and tools 💥.
 
 <img src="https://github.com/user-attachments/assets/8d3e5cb1-7a4e-4aa0-a741-2fe9124693de" 
-width="1000px" height="400px">
+width="1000px" height="350px">
 
 

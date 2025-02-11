@@ -7,9 +7,9 @@ Hi!👋 I´m a junior Java developer primarily focused on backend development. I
 - 📚 Read more about **software architectures**  
 - 🚀 Develop a **full-stack web project**  
 ## 📊 GitHub Stats
-![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisPrey&show_icons=true&theme=dark)
+![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisPiquinRey&show_icons=true&theme=dark)
 ## 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPrey&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPiquinRey&layout=compact&theme=dark)
 ## 🌐 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luuis__04)
 ## 📩 Contact Me

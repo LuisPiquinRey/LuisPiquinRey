@@ -1,3 +1,18 @@
+
+
+  ```
+ 
+  _     _    _ _____  _____   _____ _____ ____  _    _ _____ _   _   _____  ________     __
+ | |   | |  | |_   _|/ ____| |  __ |_   _/ __ \| |  | |_   _| \ | | |  __ \|  ____\ \   / /
+ | |   | |  | | | | | (___   | |__) || || |  | | |  | | | | |  \| | | |__) | |__   \ \_/ / 
+ | |   | |  | | | |  \___ \  |  ___/ | || |  | | |  | | | | | . ` | |  _  /|  __|   \   /  
+ | |___| |__| |_| |_ ____) | | |    _| || |__| | |__| |_| |_| |\  | | | \ \| |____   | |   
+ |______\____/|_____|_____/  |_|   |_____\___\_\\____/|_____|_| \_| |_|  \_|______|  |_|   
+                                                                                           
+                                                                                                                                                   
+  ```                                                                                                                                              
+                                                                                                                                            
+    
 # About Me ✅
 <!DOCTYPE html>
 Hi!👋 I’m a passionate junior Java developer primarily focused on backend development. I'm deeply interested in programming and I’m currently enhancing my skills with technologies like Spring Boot, Spring Security, and Hibernate. I study independently as a self-taught learner, continuously improving my craft. This repository serves as a space to showcase my projects, practices, and progress as I learn and apply these frameworks and tools 💻⚡.

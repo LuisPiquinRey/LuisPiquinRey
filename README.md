@@ -7,7 +7,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Piquin Rey
 =======================================================================================================================================
 
-Hi!👋 I’m a passionate junior Java developer primarily focused on backend development. I'm deeply interested in programming and I’m currently enhancing my skills with technologies like Spring Boot, Spring Security, and Hibernate. I study independently as a self-taught learner, continuously improving my craft. This repository serves as a space to showcase my projects, practices, and progress as I learn and apply these frameworks and tools 💻⚡.
+Hi!👋 I’m a passionate junior Java developer primarily focused on backend development. I'm deeply interested in programming and I’m currently enhancing my skills with technologies like **`Spring Boot`**, **`Spring Security`**, and **`Hibernate`**. I study independently as a self-taught learner, continuously improving my craft. This repository serves as a space to showcase my projects, practices, and progress as I learn and apply these frameworks and tools 💻⚡.
 ## 🎯 Current Goals  
 - ✅ Learn more about **Spring Boot** and **Hibernate**  
 - 🔄 Improve on **data structures and algorithms**  

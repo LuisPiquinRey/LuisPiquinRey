@@ -41,21 +41,63 @@ This profile showcases my experiments, projects, and continuous learning journey
 
 <span style="color: #3cff00">**Let's collaborate on secure, high-impact systems!**</span> 🚀  
 
-## 🎯 Current Goals  
-- ✅ Learn more about **Spring Boot** and **Hibernate**  
-- 🔄 Improve on **data structures and algorithms**  
-- 📚 Read more about **software architectures**  
-- 🚀 Develop a **full-stack web project**  
-## 📊 GitHub Stats
-![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisPiquinRey&show_icons=true&theme=dark)
-## 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPiquinRey&layout=compact&theme=dark)
-## 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luuis__04)
-## 📩 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piquin.rey@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/557299960899567627)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LuisPiquinRey)
+
+<div align="center">
+
+## 🎯 My Journey Roadmap
+  
+| 🔥 Current Focus              | 🚀 Next Objectives          |
+|-------------------------------|-----------------------------|
+| ✅ Spring Boot & Hibernate    | 📊 System Design Patterns   |
+| 🧠 Data Structures           | ☁️ Cloud Architecture      |
+| ⚛️ Full-Stack Development   | 🔐 Advanced Security        |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Coding Analytics
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LuisPiquinRey&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" 
+    alt="My GitHub Stats" 
+    style="width: 55%; min-width: 300px;"
+  >
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPiquinRey&layout=compact&theme=radical&hide_border=true&bg_color=00000000" 
+    alt="Top Languages" 
+    style="width: 40%; min-width: 250px;"
+  >
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌍 Let's Connect
+
+<a href="https://instagram.com/luuis__04" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25" alt="Instagram">
+</a>
+
+<a href="mailto:piquin.rey@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" alt="Email">
+</a>
+
+<a href="https://discord.com/users/557299960899567627">
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=25" alt="Discord">
+</a>
+
+<a href="https://t.me/LuisPiquinRey">
+  <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=25" alt="Telegram">
+</a>
+
+</div>
 
 <h2>🚀 &nbsp;My Tech Stack</h2>
 <p align="left">
@@ -76,4 +118,7 @@ This profile showcases my experiments, projects, and continuous learning journey
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="RabbitMQ" width="50" height="50" style="margin: 5px;"/>
+
+
 </p>
+

@@ -1,0 +1,46 @@
+name: 🐍 Snake Contribution Generator
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Cada 12 horas
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necesario para subir los archivos
+
+    steps:
+      - name: 🛠️ Setup Repository
+        uses: actions/checkout@v4
+        
+      - name: 🐍 Generate Snake Animations
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/snake.svg
+            output/snake-dark.svg?palette=github-dark
+            output/snake.gif?color_snake=#3cff00&color_dots=#bfd6f6,#8dbdff,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📤 Upload Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animations
+          path: output/
+
+      - name: 🚀 Deploy to GitHub
+        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          destination_dir: .
+          keep_files: false

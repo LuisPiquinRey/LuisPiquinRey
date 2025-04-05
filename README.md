@@ -28,7 +28,7 @@ I'm a **passionate Java developer** ☕ with a strong focus on **backend systems
 
 Expanding into **full-stack development** with:  
 - **React** (State management, Hooks)  
-- **JavaScript/TypeScript**  
+- **JavaScript**  
 - Modern CSS/HTML  
 
 **Current Obsessions**:  

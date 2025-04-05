@@ -79,46 +79,49 @@ This profile showcases my experiments, projects, and continuous learning journey
 
 <div align="center">
 
-## 🌍 Let's Connect
+<div align="center">
 
-<a href="https://instagram.com/luuis__04" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25" alt="Instagram">
-</a>
+## 🛠️ Tech Arsenal
 
-<a href="mailto:piquin.rey@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" alt="Email">
-</a>
+<!-- Fila 1: Backend -->
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
+</p>
 
-<a href="https://discord.com/users/557299960899567627">
-  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=25" alt="Discord">
-</a>
+<!-- Fila 2: DevOps -->
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-<a href="https://t.me/LuisPiquinRey">
-  <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=25" alt="Telegram">
-</a>
+<!-- Fila 3: Databases -->
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+</p>
 
 </div>
 
-<h2>🚀 &nbsp;My Tech Stack</h2>
-<p align="left">
-  <!-- Java y Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50" style="margin: 5px;"/>
-  
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 5px;"/>
-  
-  <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 5px;"/>
-  
-  <!-- Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="RabbitMQ" width="50" height="50" style="margin: 5px;"/>
+---
 
+<div align="center">
 
+## 🌐 Let's Build Together
+<p align="center">
+  <a href="mailto:piquin.rey@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/557299960899567627">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="40" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/LuisPiquinRey">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="40" alt="Telegram"/>
+  </a>
 </p>
 

@@ -80,33 +80,12 @@ This profile showcases my experiments, projects, and continuous learning journey
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
 
-<!-- Fila 1: Backend -->
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
-</p>
+## 🐍 GitHub Activity Snake
 
-<!-- Fila 2: DevOps -->
-<p>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-<!-- Fila 3: Databases -->
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-</p>
+![Snake animation](https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/output/github-snake-dark.svg)
 
 </div>
-
----
-
 <div align="center">
 
 ## 🌐 Let's Build Together

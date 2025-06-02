@@ -8,26 +8,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a **passionate Java developer** ☕ with a strong focus on **backend systems, security, and cloud-native architectures**. As a self-taught programmer, I thrive on solving complex problems and building **scalable, secure applications** using:
 
-- **Spring Ecosystem**:  
-  → **Spring Boot** (Production-grade microservices)  
-  → <span style="color: #3cff00">**Spring Security** (OAuth2, JWT, RBAC implementations)</span>  
-  → <span style="color: #3cff00">**Spring Cloud** (Distributed systems, Config Server, Gateway)</span>  
-  → **Hibernate** (ORM & performance optimization)
-
-- **Security Engineering**:  
-  → <span style="color: #3cff00">**Keycloak** (SSO, Identity Broker, Secure Web Apps)</span>  
-  → JWT/OAuth2 flows  
-  → Secure API design (CORS, CSRF protection)
-
-- **DevOps & Cloud**:  
-  → **Kubernetes** (Helm, Kustomize)  
-  → **Docker** (Optimized containers)  
-  → **RabbitMQ** (Async messaging)  
+> - **Spring Ecosystem**:  
+>   → **Spring Boot** (Production-grade microservices)  
+>   → **Spring Security** (OAuth2, JWT, RBAC implementations)  
+>   → **Spring Cloud** (Distributed systems, Config Server, Gateway)  
+>   → **Hibernate** (ORM & performance optimization)
+> 
+> - **Security Engineering**:  
+>   → **Keycloak** (SSO, Identity Broker, Secure Web Apps)  
+>   → JWT/OAuth2 flows  
+>   → Secure API design (CORS, CSRF protection)
+> 
+> - **DevOps & Cloud**:  
+>   → **Kubernetes** (Helm, Kustomize)  
+>   → **Docker** (Optimized containers)  
+>   → **RabbitMQ** (Async messaging)
 
 Expanding into **full-stack development** with:  
 - **React** (State management, Hooks)  
 - **JavaScript**  
-- Modern CSS/HTML  
+- Modern CSS/HTML
+  
+<hr></hr>
 
 **Current Obsessions**:  
 ✓ Building **secure auth systems** with Keycloak + Spring Security  

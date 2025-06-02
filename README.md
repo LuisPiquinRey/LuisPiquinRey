@@ -91,16 +91,10 @@ This profile showcases my experiments, projects, and continuous learning journey
   >
 </div>
 
----
-
 <div align="center">
-<h2>🐍 GitHub Activity Snake</h2>
-</div>
+
 
 ![Snake animation](https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/output/github-snake-dark.svg)
-
----
-
 <div align="center">
 <h2>🌐 Let's Build Together</h2>
 </div>

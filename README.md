@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Piquin Rey
-=======================================================================================================================================
-
+# 👋 Hi there! I'm Luis Piquin Rey
 ### 🔐 Security-Focused Backend Developer | Java & Spring Specialist
 
 I'm a **passionate Java developer** ☕ with a strong focus on **backend systems, security, and cloud-native architectures**. As a self-taught programmer, I thrive on solving complex problems and building **scalable, secure applications** using:

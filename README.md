@@ -35,7 +35,7 @@ Expanding into **full-stack development** with:
 ✓ Designing **fault-tolerant microservices**  
 ✓ **Kubernetes** cluster optimization  
 
-This profile showcases my experiments, projects, and continuous learning journey. I believe in **clean code, solid architectures, and security-first development**. If you want to see content about software architectures, follow me on Medium at the following link: 
+This profile showcases my experiments, projects, and continuous learning journey. I believe in **clean code, solid architectures, and security-first development**. If you want to see content about software architectures, follow me on Medium: 
 https://medium.com/@programmingwithpr .I’ll be posting content every week.
 
 <span style="color: #3cff00">**Let's collaborate on secure, high-impact systems!**</span> 🚀  

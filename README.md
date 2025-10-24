@@ -30,11 +30,12 @@ Expanding into **full-stack development** with:
 <hr></hr>
 
 **Current Obsessions**:  
-✓ Building **secure auth systems** with Keycloak + Spring Security  
+✓ Software architectures and design patterns 
 ✓ Designing **fault-tolerant microservices**  
 ✓ **Kubernetes** cluster optimization  
 
-This profile showcases my experiments, projects, and continuous learning journey. I believe in **clean code, solid architectures, and security-first development**.  
+This profile showcases my experiments, projects, and continuous learning journey. I believe in **clean code, solid architectures, and security-first development**. If you want to see content about software architectures, follow me on Medium at the following link: 
+https://medium.com/@programmingwithpr .I’ll be posting content every week.
 
 <span style="color: #3cff00">**Let's collaborate on secure, high-impact systems!**</span> 🚀  
 

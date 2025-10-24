@@ -30,7 +30,8 @@ Expanding into **full-stack development** with:
 <hr></hr>
 
 **Current Obsessions**:  
-✓ Software architectures and design patterns 
+✓ **Software architectures and design patterns**
+<br>
 ✓ Designing **fault-tolerant microservices**  
 ✓ **Kubernetes** cluster optimization  
 

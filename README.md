@@ -17,32 +17,29 @@ Building secure, maintainable backend systems with Spring, clean architecture an
 
 ## About
 
-I'm a self-taught backend developer from Spain focused on the parts of software that have to stay correct under pressure: **security, domain modelling and system architecture**.
+I'm a self-taught backend developer from Spain. Most of my time goes into Java and the Spring ecosystem, and the part I enjoy most is the design behind the code: how to split a domain, where the boundaries go, and how to keep a system secure and easy to change as it grows. That usually means Clean and Onion Architecture, Domain-Driven Design and, when the problem really calls for it, event-driven patterns like CQRS and Sagas.
 
-- **Architecture first** — Onion/Clean Architecture, Domain-Driven Design, modular monoliths and microservices, chosen for the problem rather than by default.
-- **Security by design** — Spring Security, OAuth2/OIDC, JWT, Keycloak SSO and role-based access control.
-- **Distributed systems** — CQRS, Event Sourcing and the Saga pattern for consistency across services.
-- **Shipping end to end** — containerised services, CI/CD with GitHub Actions, and React/Astro frontends when a product needs one.
+Security is something I build in from the start rather than bolt on at the end, with Spring Security, OAuth2, JWT and Keycloak. I also like taking projects all the way to production, so I'm comfortable with Docker, CI/CD pipelines and putting together a React or Astro frontend when a product needs one.
 
-I write about software architecture on [Medium](https://medium.com/@programmingwithpr) and [YouTube](https://www.youtube.com/@ArchKnot).
+When I'm not building, I write about software architecture on [Medium](https://medium.com/@programmingwithpr) and [YouTube](https://www.youtube.com/@ArchKnot).
 
 ## Featured Work
 
-### [Messafy](https://github.com/Messafy) &nbsp;·&nbsp; [messafy.org](https://www.messafy.org/)
+<h3><a href="https://www.messafy.org/">Messafy</a></h3>
 
-A focused workspace for personal notes that keeps them private by default and makes sharing intentional. Live in production.
+Messafy is a note-taking app built around one idea: your notes stay private unless you deliberately choose to share them. It's live at [messafy.org](https://www.messafy.org/), and I develop it end to end as part of the [Messafy organization](https://github.com/Messafy).
 
-| Repository | Description | Stack |
-|---|---|---|
-| [**backend**](https://github.com/Messafy/backend) | Modular monolith following Onion Architecture: accounts, email verification, private and shared notes, anonymous messaging and notifications. | Java 21 · Spring Boot 4 · Spring Security · MongoDB · JWT |
-| [**frontend**](https://github.com/Messafy/frontend) | Three-pane note workspace with tags and pinned notes, built on an Atomic Design component library. [app.messafy.org](https://app.messafy.org/) | React 19 · Vite · Sass · React Router |
-| [**landing**](https://github.com/Messafy/landing) | Static landing page tuned for performance, SEO and accessibility, deployed independently. | Astro · CSS · Vercel |
+The [backend](https://github.com/Messafy/backend) is a modular monolith in Java 21 and Spring Boot 4 following Onion Architecture, handling accounts, email verification, private and shared notes, anonymous messages and notifications on top of MongoDB. The [web app](https://github.com/Messafy/frontend) is built with React 19 and an Atomic Design component library, and the [landing page](https://github.com/Messafy/landing) is a separate Astro site tuned for speed and SEO.
 
-### [Saga-Knot](https://github.com/LuisPiquinRey/Saga-knot)
-
-An event-driven e-commerce platform exploring **CQRS, Event Sourcing and Saga orchestration** across bounded contexts with polyglot persistence. *Work in progress.*
-
-`Java` `Spring Boot` `Axon Framework` `MySQL` `MongoDB` `Redis` `React` `Docker`
+<p>
+  <a href="https://www.messafy.org/"><img src="https://img.shields.io/badge/Website-messafy.org-7656B8?style=flat-square" alt="Website" /></a>
+  <a href="https://app.messafy.org/"><img src="https://img.shields.io/badge/App-app.messafy.org-7656B8?style=flat-square" alt="App" /></a>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+</p>
 
 ## Tech Stack
 
@@ -71,15 +68,13 @@ An event-driven e-commerce platform exploring **CQRS, Event Sourcing and Saga or
 
 ## Currently
 
-- Growing **Messafy** as a real product: hardening security, observability and deployment.
-- Going deeper into **system design** and fault-tolerant **event-driven architectures**.
-- Publishing architecture content on Medium and YouTube.
+Right now most of my energy goes into turning Messafy into a solid, real-world product, tightening its security, observability and deployment along the way. Alongside that, I'm going deeper into system design and fault-tolerant event-driven architectures, and sharing what I learn through my articles and videos.
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuisPiquinRey&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=c4a0f5&icon_color=c4a0f5&text_color=8a8398" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPiquinRey&layout=compact&hide_border=true&bg_color=00000000&title_color=c4a0f5&text_color=8a8398" alt="Top languages" />
+  <img height="180" src="https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/main/profile-summary-card-output/aura/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/main/profile-summary-card-output/aura/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">

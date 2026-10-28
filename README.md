@@ -1,10 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2240,50:7656B8,100:C4A0F5&height=190&section=header&text=Luis%20Piquin%20Rey&fontSize=48&fontColor=F4F0FA&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20%C2%B7%20Software%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" alt="Luis Piquin Rey" />
+
 <div align="center">
 
-# Luis Piquin Rey
+<a href="https://github.com/LuisPiquinRey">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C4A0F5&center=true&vCenter=true&width=560&lines=Designing+systems+that+stay+easy+to+change;Security+built+in%2C+not+bolted+on;Clean+Architecture+%C2%B7+DDD+%C2%B7+Event-driven;Currently+shipping+Messafy+%E2%9C%A6" alt="Typing intro" />
+</a>
 
-**Backend Engineer · Java & Spring · Software Architecture**
-
-Building secure, maintainable backend systems with Spring, clean architecture and distributed-systems patterns.
+<br />
 
 [![Messafy](https://img.shields.io/badge/Messafy-messafy.org-7656B8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.messafy.org/)
 [![Medium](https://img.shields.io/badge/Medium-programmingwithpr-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@programmingwithpr)
@@ -13,9 +15,9 @@ Building secure, maintainable backend systems with Spring, clean architecture an
 
 </div>
 
----
+<br />
 
-## About
+<h3>✦ About me</h3>
 
 I'm a self-taught backend developer from Spain. Most of my time goes into Java and the Spring ecosystem, and the part I enjoy most is the design behind the code: how to split a domain, where the boundaries go, and how to keep a system secure and easy to change as it grows. That usually means Clean and Onion Architecture, Domain-Driven Design and, when the problem really calls for it, event-driven patterns like CQRS and Sagas.
 
@@ -23,54 +25,46 @@ Security is something I build in from the start rather than bolt on at the end, 
 
 When I'm not building, I write about software architecture on [Medium](https://medium.com/@programmingwithpr) and [YouTube](https://www.youtube.com/@ArchKnot).
 
-## Featured Work
+<br />
 
-<h3><a href="https://www.messafy.org/">Messafy</a></h3>
+<h3>✦ What I'm building</h3>
 
-Messafy is a note-taking app built around one idea: your notes stay private unless you deliberately choose to share them. It's live at [messafy.org](https://www.messafy.org/), and I develop it end to end as part of the [Messafy organization](https://github.com/Messafy).
+<a href="https://www.messafy.org/">
+  <img width="100%" src="https://www.messafy.org/social-card.png" alt="Messafy — send anonymous messages, say what you really feel" />
+</a>
 
-The [backend](https://github.com/Messafy/backend) is a modular monolith in Java 21 and Spring Boot 4 following Onion Architecture, handling accounts, email verification, private and shared notes, anonymous messages and notifications on top of MongoDB. The [web app](https://github.com/Messafy/frontend) is built with React 19 and an Atomic Design component library, and the [landing page](https://github.com/Messafy/landing) is a separate Astro site tuned for speed and SEO.
+<p align="center"><b><a href="https://www.messafy.org/">Messafy</a></b> &nbsp;—&nbsp; <i>Your words. Your identity stays yours.</i></p>
 
-<p>
-  <a href="https://www.messafy.org/"><img src="https://img.shields.io/badge/Website-messafy.org-7656B8?style=flat-square" alt="Website" /></a>
-  <a href="https://app.messafy.org/"><img src="https://img.shields.io/badge/App-app.messafy.org-7656B8?style=flat-square" alt="App" /></a>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+Messafy is a social space for writing notes and sending anonymous messages: share an opinion, a secret or a confession without revealing who you are, while your own notes stay private until you decide otherwise. It's live in production and I build it end to end.
+
+Under the hood, the **backend** is a modular monolith in Java 21 and Spring Boot 4 shaped by Onion Architecture, covering accounts, email verification, private and shared notes, anonymous messages and notifications on MongoDB. The **web app** runs on React 19 with an Atomic Design component library, and the **landing** is a standalone Astro site tuned for speed and SEO.
+
+<p align="center">
+  <a href="https://www.messafy.org/"><img src="https://img.shields.io/badge/Try_it-messafy.org-C4A0F5?style=for-the-badge&labelColor=2C2240" alt="Try Messafy" /></a>
+  <a href="https://github.com/Messafy/backend"><img src="https://img.shields.io/badge/Backend-Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=2C2240" alt="Backend" /></a>
+  <a href="https://github.com/Messafy/frontend"><img src="https://img.shields.io/badge/Web_app-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2C2240" alt="Web app" /></a>
+  <a href="https://github.com/Messafy/landing"><img src="https://img.shields.io/badge/Landing-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white&labelColor=2C2240" alt="Landing" /></a>
 </p>
 
-## Tech Stack
+<br />
 
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java, Spring, Hibernate, Maven" /></td>
-  </tr>
-  <tr>
-    <td><b>Data &amp; Messaging</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq" alt="MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ" /></td>
-  </tr>
-  <tr>
-    <td><b>Infrastructure</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" alt="Docker, Kubernetes, GitHub Actions, Linux" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,js,astro,sass,vite" alt="React, JavaScript, Astro, Sass, Vite" /></td>
-  </tr>
-  <tr>
-    <td><b>Tooling</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,idea" alt="Git, GitHub, IntelliJ IDEA" /></td>
-  </tr>
-</table>
+<h3>✦ Toolbox</h3>
 
-## Currently
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,redis,rabbitmq&perline=9" alt="Java, Spring, Hibernate, Maven, MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,react,js,astro,sass,vite&perline=9" alt="Docker, Kubernetes, GitHub Actions, Linux, React, JavaScript, Astro, Sass, Vite" />
+</p>
 
-Right now most of my energy goes into turning Messafy into a solid, real-world product, tightening its security, observability and deployment along the way. Alongside that, I'm going deeper into system design and fault-tolerant event-driven architectures, and sharing what I learn through my articles and videos.
+<br />
 
-## GitHub Activity
+<h3>✦ Right now</h3>
+
+Most of my energy goes into turning Messafy into a solid, real-world product, tightening its security, observability and deployment along the way. Alongside that, I'm going deeper into system design and fault-tolerant event-driven architectures, and sharing what I learn through my articles and videos.
+
+<br />
+
+<h3>✦ GitHub activity</h3>
 
 <p align="center">
   <img height="180" src="https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/main/profile-summary-card-output/aura/3-stats.svg" alt="GitHub stats" />
@@ -81,10 +75,23 @@ Right now most of my energy goes into turning Messafy into a solid, real-world p
   <img src="https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-## Get in Touch
+<br />
 
-Open to collaborating on backend, security and architecture-heavy projects.
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piquin.rey@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/557299960899567627)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LuisPiquinRey)
+<h3>✦ Let's talk</h3>
+
+Got a product idea, a backend that needs untangling, or an architecture debate worth having?<br />
+I'm always happy to talk shop. Pick your channel 👇
+
+<br />
+
+<a href="mailto:piquin.rey@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/557299960899567627"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://t.me/LuisPiquinRey"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://medium.com/@programmingwithpr"><img src="https://img.shields.io/badge/Read_my_articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.youtube.com/@ArchKnot"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A0F5,50:7656B8,100:2C2240&height=110&section=footer" alt="" />

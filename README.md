@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2240,50:7656B8,100:C4A0F5&height=190&section=header&text=Luis%20Piquin%20Rey&fontSize=48&fontColor=F4F0FA&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20%C2%B7%20Software%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" alt="Luis Piquin Rey" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2240,50:7656B8,100:C4A0F5&height=150&section=header" alt="" />
 
 <div align="center">
 

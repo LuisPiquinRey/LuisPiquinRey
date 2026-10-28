@@ -1,117 +1,95 @@
-<!DOCTYPE html>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-# 👋 Hi there! I'm Luis Piquin Rey
-### 🔐 Security-Focused Backend Developer | Java & Spring Specialist
-
-I'm a **passionate Java developer** ☕ with a strong focus on **backend systems, security, and cloud-native architectures**. As a self-taught programmer, I thrive on solving complex problems and building **scalable, secure applications** using:
-
-> - **Spring Ecosystem**:  
->   → **Spring Boot** (Production-grade microservices)  
->   → **Spring Security** (OAuth2, JWT, RBAC implementations)  
->   → **Spring Cloud** (Distributed systems, Config Server, Gateway)  
->   → **Hibernate** (ORM & performance optimization)
-> 
-> - **Security Engineering**:  
->   → **Keycloak** (SSO, Identity Broker, Secure Web Apps)  
->   → JWT/OAuth2 flows  
->   → Secure API design (CORS, CSRF protection)
-> 
-> - **DevOps & Cloud**:  
->   → **Kubernetes** (Helm, Kustomize)  
->   → **Docker** (Optimized containers)  
->   → **RabbitMQ** (Async messaging)
-
-Expanding into **full-stack development** with:  
-- **React** (State management, Hooks)  
-- **JavaScript**  
-- Modern CSS/HTML
-  
-<hr></hr>
-
-**Current Obsessions**:  
-✓ **Software architectures and design patterns**
-<br>
-✓ Designing **fault-tolerant microservices**  
-✓ **Kubernetes** cluster optimization  
-
-This profile showcases my experiments, projects, and continuous learning journey. I believe in **clean code, solid architectures, and security-first development**. If you want to see content about software architectures, follow me on Medium: 
-https://medium.com/@programmingwithpr .I’ll be posting content every week and on my YouTube Channel too! www.youtube.com/@ArchKnot
-
-<span style="color: #3cff00">**Let's collaborate on secure, high-impact systems!**</span> 🚀  
-
 <div align="center">
 
-<h2>🛠️ Tech Arsenal</h2>
+# Luis Piquin Rey
 
-<!-- Fila 1: Backend -->
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
-</p>
+**Backend Engineer · Java & Spring · Software Architecture**
 
-<!-- Fila 2: DevOps -->
-<p>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+Building secure, maintainable backend systems with Spring, clean architecture and distributed-systems patterns.
 
-<!-- Fila 3: Databases -->
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-</p>
+[![Messafy](https://img.shields.io/badge/Messafy-messafy.org-7656B8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.messafy.org/)
+[![Medium](https://img.shields.io/badge/Medium-programmingwithpr-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@programmingwithpr)
+[![YouTube](https://img.shields.io/badge/YouTube-ArchKnot-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ArchKnot)
+[![Email](https://img.shields.io/badge/Email-piquin.rey%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:piquin.rey@gmail.com)
 
 </div>
 
-<div align="center">
-<h2>🎯 My Journey Roadmap</h2>
-  
-| 🔥 Current Focus              | 🚀 Next Objectives          |
-|-------------------------------|-----------------------------|
-| ✅ Spring Boot & Hibernate    | 📊 System Design Patterns   |
-| 🧠 Data Structures           | ☁️ Cloud Architecture      |
-| ⚛️ Full-Stack Development   | 🔐 Advanced Security        |
-</div>
-<div align="center">
-<h2>📊 Coding Analytics</h2>
-</div>
+---
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LuisPiquinRey&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" 
-    alt="My GitHub Stats" 
-    style="width: 55%; min-width: 300px;"
-  >
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPiquinRey&layout=compact&theme=radical&hide_border=true&bg_color=00000000" 
-    alt="Top Languages" 
-    style="width: 40%; min-width: 250px;"
-  >
-</div>
+## About
 
-<div align="center">
+I'm a self-taught backend developer from Spain focused on the parts of software that have to stay correct under pressure: **security, domain modelling and system architecture**.
 
+- **Architecture first** — Onion/Clean Architecture, Domain-Driven Design, modular monoliths and microservices, chosen for the problem rather than by default.
+- **Security by design** — Spring Security, OAuth2/OIDC, JWT, Keycloak SSO and role-based access control.
+- **Distributed systems** — CQRS, Event Sourcing and the Saga pattern for consistency across services.
+- **Shipping end to end** — containerised services, CI/CD with GitHub Actions, and React/Astro frontends when a product needs one.
 
-![Snake animation](https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/output/github-snake-dark.svg)
-<div align="center">
-<h2>🌐 Let's Build Together</h2>
-</div>
+I write about software architecture on [Medium](https://medium.com/@programmingwithpr) and [YouTube](https://www.youtube.com/@ArchKnot).
+
+## Featured Work
+
+### [Messafy](https://github.com/Messafy) &nbsp;·&nbsp; [messafy.org](https://www.messafy.org/)
+
+A focused workspace for personal notes that keeps them private by default and makes sharing intentional. Live in production.
+
+| Repository | Description | Stack |
+|---|---|---|
+| [**backend**](https://github.com/Messafy/backend) | Modular monolith following Onion Architecture: accounts, email verification, private and shared notes, anonymous messaging and notifications. | Java 21 · Spring Boot 4 · Spring Security · MongoDB · JWT |
+| [**frontend**](https://github.com/Messafy/frontend) | Three-pane note workspace with tags and pinned notes, built on an Atomic Design component library. [app.messafy.org](https://app.messafy.org/) | React 19 · Vite · Sass · React Router |
+| [**landing**](https://github.com/Messafy/landing) | Static landing page tuned for performance, SEO and accessibility, deployed independently. | Astro · CSS · Vercel |
+
+### [Saga-Knot](https://github.com/LuisPiquinRey/Saga-knot)
+
+An event-driven e-commerce platform exploring **CQRS, Event Sourcing and Saga orchestration** across bounded contexts with polyglot persistence. *Work in progress.*
+
+`Java` `Spring Boot` `Axon Framework` `MySQL` `MongoDB` `Redis` `React` `Docker`
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java, Spring, Hibernate, Maven" /></td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq" alt="MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ" /></td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" alt="Docker, Kubernetes, GitHub Actions, Linux" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,js,astro,sass,vite" alt="React, JavaScript, Astro, Sass, Vite" /></td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,idea" alt="Git, GitHub, IntelliJ IDEA" /></td>
+  </tr>
+</table>
+
+## Currently
+
+- Growing **Messafy** as a real product: hardening security, observability and deployment.
+- Going deeper into **system design** and fault-tolerant **event-driven architectures**.
+- Publishing architecture content on Medium and YouTube.
+
+## GitHub Activity
 
 <p align="center">
-  <a href="mailto:piquin.rey@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/557299960899567627">
-    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="40" alt="Discord"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/LuisPiquinRey">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="40" alt="Telegram"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuisPiquinRey&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=c4a0f5&icon_color=c4a0f5&text_color=8a8398" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPiquinRey&layout=compact&hide_border=true&bg_color=00000000&title_color=c4a0f5&text_color=8a8398" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuisPiquinRey/LuisPiquinRey/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+## Get in Touch
+
+Open to collaborating on backend, security and architecture-heavy projects.
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piquin.rey@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/557299960899567627)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LuisPiquinRey)
